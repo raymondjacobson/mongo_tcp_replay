@@ -1,0 +1,2 @@
+%{"expcap": {:hex, :expcap, "0.1.0"},
+  "timex": {:hex, :timex, "0.13.5"}}
